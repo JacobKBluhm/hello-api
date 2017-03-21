@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "976f6b22073a5e3bba385f6f651297d5"
+build_time: [543447384, 656839000]
+inputs:
+  "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/Sources/main.swift": [543382357, 0]

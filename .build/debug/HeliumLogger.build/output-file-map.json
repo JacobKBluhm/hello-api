@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/HeliumLogger.build/master.swiftdeps"
+  },
+  "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/Packages/HeliumLogger-1.6.0/Sources/HeliumLogger/HeliumLogger.swift": {
+    "dependencies": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/HeliumLogger.build/HeliumLogger.d",
+    "object": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/HeliumLogger.build/HeliumLogger.swift.o",
+    "swiftmodule": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/HeliumLogger.build/HeliumLogger~partial.swiftmodule",
+    "swift-dependencies": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/HeliumLogger.build/HeliumLogger.swiftdeps"
+  },
+  "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/Packages/HeliumLogger-1.6.0/Sources/HeliumLogger/HeliumStreamLogger.swift": {
+    "dependencies": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/HeliumLogger.build/HeliumStreamLogger.d",
+    "object": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/HeliumLogger.build/HeliumStreamLogger.swift.o",
+    "swiftmodule": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/HeliumLogger.build/HeliumStreamLogger~partial.swiftmodule",
+    "swift-dependencies": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/HeliumLogger.build/HeliumStreamLogger.swiftdeps"
+  }
+}

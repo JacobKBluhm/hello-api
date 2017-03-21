@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/LoggerAPI.build/master.swiftdeps"
+  },
+  "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/Packages/LoggerAPI-1.6.0/Sources/LoggerAPI/Logger.swift": {
+    "dependencies": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/LoggerAPI.build/Logger.d",
+    "object": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/LoggerAPI.build/Logger.swift.o",
+    "swiftmodule": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/LoggerAPI.build/Logger~partial.swiftmodule",
+    "swift-dependencies": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/LoggerAPI.build/Logger.swiftdeps"
+  }
+}

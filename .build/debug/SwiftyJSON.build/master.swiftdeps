@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "c23a97e0194c2e2f58be23be4008131f"
+build_time: [543447355, 858531000]
+inputs:
+  "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/Packages/SwiftyJSON-15.0.5/Source/LclJSONSerialization.swift": [543447350, 0]
+  "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/Packages/SwiftyJSON-15.0.5/Source/SwiftyJSON.swift": [543447351, 0]

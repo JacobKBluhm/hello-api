@@ -1,0 +1,37 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "RouterHandler"
+provides-nominal:
+provides-member:
+provides-dynamic-lookup:
+depends-top-level:
+- "RouterHandler"
+- "RouterRequest"
+- "RouterResponse"
+- "Void"
+- !private "DummyRouterHAndlerClass"
+depends-member:
+- !private ["Ps9AnyObject", ""]
+depends-nominal:
+- !private "Ps9AnyObject"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/LoggerAPI.swiftmodule"
+- "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/KituraNet.swiftmodule"
+- "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/Packages/Kitura-net-1.6.2/Sources/CHTTPParser/include/module.modulemap"
+- "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/Packages/Kitura-net-1.6.2/Sources/CHTTPParser/include/utils.h"
+- "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/Packages/Kitura-net-1.6.2/Sources/CHTTPParser/include/http_parser.h"
+- "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/Packages/CCurl-0.2.3/module.modulemap"
+- "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/SSLService.swiftmodule"
+- "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/Socket.swiftmodule"
+- "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/KituraTemplateEngine.swiftmodule"
+- "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/SwiftyJSON.swiftmodule"
+interface-hash: "83ef246320ce03705053d71466d07d87"

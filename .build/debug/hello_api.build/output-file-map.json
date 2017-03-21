@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/hello_api.build/master.swiftdeps"
+  },
+  "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/Sources/main.swift": {
+    "dependencies": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/hello_api.build/main.d",
+    "object": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/hello_api.build/main.swift.o",
+    "swiftmodule": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/hello_api.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/hello_api.build/main.swiftdeps"
+  }
+}

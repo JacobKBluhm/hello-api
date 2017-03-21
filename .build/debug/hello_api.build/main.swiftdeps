@@ -1,0 +1,211 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "router"
+provides-nominal:
+provides-member:
+provides-dynamic-lookup:
+depends-top-level:
+- "setbuf"
+- "Log"
+- "router"
+- "StringLiteralType"
+- "Dictionary"
+- "UnicodeScalarType"
+- "stdout"
+- "Kitura"
+- "JSON"
+- "AssignmentPrecedence"
+- "FloatLiteralType"
+- "IntegerLiteralType"
+- "HeliumLogger"
+- "Router"
+depends-member:
+- ["Ps9AnyObject", "addHTTPServer"]
+- ["Ps9AnyObject", "get"]
+- ["Ps9AnyObject", "info"]
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "logger"]
+- ["Ps9AnyObject", "run"]
+- ["Ps9AnyObject", "send"]
+- ["Ps9AnyObject", "status"]
+- ["Sa", "deinit"]
+- ["Ps7CVarArg", "Key"]
+- ["Ps7CVarArg", "Value"]
+- ["Ps7CVarArg", "init"]
+- ["Ps10Collection", "Key"]
+- ["Ps10Collection", "Value"]
+- ["Ps10Collection", "init"]
+- ["Ps10Comparable", "init"]
+- ["Ps28CustomDebugStringConvertible", "Key"]
+- ["Ps28CustomDebugStringConvertible", "Value"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps29CustomPlaygroundQuickLookable", "init"]
+- ["Ps17CustomReflectable", "Key"]
+- ["Ps17CustomReflectable", "Value"]
+- ["Ps17CustomReflectable", "init"]
+- ["Ps23CustomStringConvertible", "Key"]
+- ["Ps23CustomStringConvertible", "Value"]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Vs10Dictionary", "Key"]
+- ["Vs10Dictionary", "Value"]
+- ["Vs10Dictionary", "deinit"]
+- ["Ps9Equatable", "OK"]
+- ["Ps9Equatable", "init"]
+- ["Ps25ExpressibleByArrayLiteral", "init"]
+- ["Ps27ExpressibleByBooleanLiteral", "init"]
+- ["Ps30ExpressibleByDictionaryLiteral", "Key"]
+- ["Ps30ExpressibleByDictionaryLiteral", "Value"]
+- ["Ps30ExpressibleByDictionaryLiteral", "init"]
+- ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- ["Ps25ExpressibleByFloatLiteral", "init"]
+- ["Ps27ExpressibleByIntegerLiteral", "init"]
+- ["Ps23ExpressibleByNilLiteral", "init"]
+- ["Ps32ExpressibleByStringInterpolation", "init"]
+- ["Ps26ExpressibleByStringLiteral", "init"]
+- ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- ["C9KituraNet10HTTPServer", "deinit"]
+- ["O9KituraNet14HTTPStatusCode", "OK"]
+- ["O9KituraNet14HTTPStatusCode", "deinit"]
+- ["Ps8Hashable", "OK"]
+- ["Ps8Hashable", "init"]
+- ["C12HeliumLogger12HeliumLogger", "deinit"]
+- ["C12HeliumLogger12HeliumLogger", "init"]
+- ["SQ", "deinit"]
+- ["Ps9Indexable", "Key"]
+- ["Ps9Indexable", "Value"]
+- ["Ps9Indexable", "init"]
+- ["Ps13IndexableBase", "Key"]
+- ["Ps13IndexableBase", "Value"]
+- ["Ps13IndexableBase", "init"]
+- ["Si", "deinit"]
+- ["V10SwiftyJSON4JSON", "deinit"]
+- ["V10SwiftyJSON4JSON", "init"]
+- ["P10SwiftyJSON17JSONSubscriptType", "init"]
+- ["C6Kitura6Kitura", "addHTTPServer"]
+- ["C6Kitura6Kitura", "run"]
+- ["C9LoggerAPI3Log", "info"]
+- ["C9LoggerAPI3Log", "logger"]
+- ["P9LoggerAPI6Logger", "init"]
+- ["Ps25LosslessStringConvertible", "init"]
+- ["Ps10MirrorPath", "init"]
+- ["PSo8NSCoding", "init"]
+- ["PSo9NSCopying", "init"]
+- ["PSo16NSMutableCopying", "init"]
+- ["CSo8NSObject", "init"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo14NSSecureCoding", "init"]
+- ["CSo8NSString", "init"]
+- ["Sq", "deinit"]
+- ["Ps16RawRepresentable", "OK"]
+- ["Ps16RawRepresentable", "init"]
+- ["C6Kitura6Router", "deinit"]
+- ["C6Kitura6Router", "get"]
+- ["C6Kitura6Router", "init"]
+- ["P6Kitura16RouterMiddleware", "get"]
+- ["P6Kitura16RouterMiddleware", "init"]
+- ["C6Kitura14RouterResponse", "deinit"]
+- ["C6Kitura14RouterResponse", "send"]
+- ["C6Kitura14RouterResponse", "status"]
+- ["Ps8Sequence", "Key"]
+- ["Ps8Sequence", "Value"]
+- ["Ps8Sequence", "init"]
+- ["P9KituraNet14ServerDelegate", "get"]
+- ["P9KituraNet14ServerDelegate", "init"]
+- ["SS", "deinit"]
+- ["SS", "init"]
+- ["Ps16TextOutputStream", "init"]
+- ["Ps20TextOutputStreamable", "init"]
+- ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- ["Ps9_Hashable", "OK"]
+- ["Ps9_Hashable", "init"]
+- ["Ps21_ObjectiveCBridgeable", "Key"]
+- ["Ps21_ObjectiveCBridgeable", "Value"]
+- ["Ps21_ObjectiveCBridgeable", "init"]
+depends-nominal:
+- "Ps9AnyObject"
+- "Sa"
+- "Ps7CVarArg"
+- "Ps10Collection"
+- "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- "Ps29CustomPlaygroundQuickLookable"
+- "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "Vs10Dictionary"
+- "Ps9Equatable"
+- "Ps25ExpressibleByArrayLiteral"
+- "Ps27ExpressibleByBooleanLiteral"
+- "Ps30ExpressibleByDictionaryLiteral"
+- "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- "Ps25ExpressibleByFloatLiteral"
+- "Ps27ExpressibleByIntegerLiteral"
+- "Ps23ExpressibleByNilLiteral"
+- "Ps32ExpressibleByStringInterpolation"
+- "Ps26ExpressibleByStringLiteral"
+- "Ps33ExpressibleByUnicodeScalarLiteral"
+- "C9KituraNet10HTTPServer"
+- "O9KituraNet14HTTPStatusCode"
+- "Ps8Hashable"
+- "C12HeliumLogger12HeliumLogger"
+- "SQ"
+- "Ps9Indexable"
+- "Ps13IndexableBase"
+- "Si"
+- "V10SwiftyJSON4JSON"
+- "P10SwiftyJSON17JSONSubscriptType"
+- "C6Kitura6Kitura"
+- "C9LoggerAPI3Log"
+- "P9LoggerAPI6Logger"
+- "Ps25LosslessStringConvertible"
+- "Ps10MirrorPath"
+- "PSo8NSCoding"
+- "PSo9NSCopying"
+- "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "PSo14NSSecureCoding"
+- "CSo8NSString"
+- "Sq"
+- "Ps16RawRepresentable"
+- "C6Kitura6Router"
+- "P6Kitura16RouterMiddleware"
+- "C6Kitura14RouterResponse"
+- "Ps8Sequence"
+- "P9KituraNet14ServerDelegate"
+- "SS"
+- "Ps16TextOutputStream"
+- "Ps20TextOutputStreamable"
+- "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- "Ps34_ExpressibleByBuiltinStringLiteral"
+- "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- "Ps35_HasCustomAnyHashableRepresentation"
+- "Ps9_Hashable"
+- "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/Kitura.swiftmodule"
+- "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/KituraNet.swiftmodule"
+- "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/Packages/Kitura-net-1.6.2/Sources/CHTTPParser/include/module.modulemap"
+- "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/Packages/Kitura-net-1.6.2/Sources/CHTTPParser/include/utils.h"
+- "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/Packages/Kitura-net-1.6.2/Sources/CHTTPParser/include/http_parser.h"
+- "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/Packages/CCurl-0.2.3/module.modulemap"
+- "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/LoggerAPI.swiftmodule"
+- "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/SSLService.swiftmodule"
+- "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/Socket.swiftmodule"
+- "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/KituraTemplateEngine.swiftmodule"
+- "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/SwiftyJSON.swiftmodule"
+- "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/HeliumLogger.swiftmodule"
+interface-hash: "d9782e2799cf31f6db2b00651990ffe5"

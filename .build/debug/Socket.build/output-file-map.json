@@ -1,0 +1,23 @@
+{
+  "": {
+    "swift-dependencies": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/Socket.build/master.swiftdeps"
+  },
+  "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/Packages/Socket-0.12.36/Sources/Socket.swift": {
+    "dependencies": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/Socket.build/Socket.d",
+    "object": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/Socket.build/Socket.swift.o",
+    "swiftmodule": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/Socket.build/Socket~partial.swiftmodule",
+    "swift-dependencies": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/Socket.build/Socket.swiftdeps"
+  },
+  "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/Packages/Socket-0.12.36/Sources/SocketProtocols.swift": {
+    "dependencies": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/Socket.build/SocketProtocols.d",
+    "object": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/Socket.build/SocketProtocols.swift.o",
+    "swiftmodule": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/Socket.build/SocketProtocols~partial.swiftmodule",
+    "swift-dependencies": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/Socket.build/SocketProtocols.swiftdeps"
+  },
+  "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/Packages/Socket-0.12.36/Sources/SocketUtils.swift": {
+    "dependencies": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/Socket.build/SocketUtils.d",
+    "object": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/Socket.build/SocketUtils.swift.o",
+    "swiftmodule": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/Socket.build/SocketUtils~partial.swiftmodule",
+    "swift-dependencies": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/Socket.build/SocketUtils.swiftdeps"
+  }
+}
