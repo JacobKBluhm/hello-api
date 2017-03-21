@@ -113,12 +113,12 @@ provides-member:
 - ["C6Kitura6Router", "connect"]
 provides-dynamic-lookup:
 depends-top-level:
-- "BooleanLiteralType"
 - "RouterHandler"
+- "Router"
 - "Bool"
 - "String"
+- "BooleanLiteralType"
 - "RouterMiddleware"
-- "Router"
 depends-member:
 - !private ["Ps9AnyObject", "routingHelper"]
 - ["Sa", "deinit"]

@@ -16,16 +16,16 @@ provides-member:
 provides-dynamic-lookup:
 depends-top-level:
 - !private "StringLiteralType"
-- "HTTPParserErrorType"
-- "BooleanLiteralType"
+- "String"
 - "HTTPParserState"
-- "FloatLiteralType"
-- "HTTPParserStatus"
-- "IntegerLiteralType"
+- "BooleanLiteralType"
+- "HTTPParserErrorType"
 - "CustomStringConvertible"
+- "FloatLiteralType"
+- "IntegerLiteralType"
 - "=="
 - "AssignmentPrecedence"
-- "String"
+- "HTTPParserStatus"
 depends-member:
 - !private ["Ps9AnyObject", "init"]
 - !private ["Ps17BitwiseOperations", "hashValue"]

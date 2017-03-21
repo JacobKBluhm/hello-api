@@ -11,19 +11,19 @@ provides-member:
 - ["V6Kitura7Headers", "addLink"]
 provides-dynamic-lookup:
 depends-top-level:
-- !private "ContentType"
+- "HeadersContainer"
+- !private "+="
 - "Headers"
 - "AssignmentPrecedence"
 - !private "=="
-- "HeadersContainer"
-- "LinkParameter"
+- !private "ContentType"
 - !private "+"
-- !private "+="
-- !private "Array"
-- !private "UnicodeScalarType"
-- "ExtendedGraphemeClusterType"
+- "LinkParameter"
 - "Collection"
+- !private "Array"
+- "ExtendedGraphemeClusterType"
 - !private "StringLiteralType"
+- !private "UnicodeScalarType"
 - "String"
 depends-member:
 - !private ["Vs11AnyIterator", "Element"]

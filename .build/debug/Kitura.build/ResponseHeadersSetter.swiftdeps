@@ -7,10 +7,10 @@ provides-member:
 - ["P6Kitura21ResponseHeadersSetter", ""]
 provides-dynamic-lookup:
 depends-top-level:
-- "RouterResponse"
 - "ResponseHeadersSetter"
 - "String"
 - "FileAttributeKey"
+- "RouterResponse"
 depends-member:
 - ["P6Kitura21ResponseHeadersSetter", "FileAttributeKey"]
 - ["P6Kitura21ResponseHeadersSetter", "RouterResponse"]

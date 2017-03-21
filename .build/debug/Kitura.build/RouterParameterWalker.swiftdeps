@@ -8,19 +8,19 @@ provides-member:
 - ["C6Kitura21RouterParameterWalker", ""]
 provides-dynamic-lookup:
 depends-top-level:
-- !private "!="
+- "RouterResponse"
+- "Void"
 - "AssignmentPrecedence"
 - "String"
 - !private "IntegerLiteralType"
-- "Void"
-- !private "FloatLiteralType"
-- "RouterParameterWalker"
 - "RouterRequest"
-- "RouterResponse"
-- !private "&&"
-- !private ">"
+- !private "FloatLiteralType"
 - "RouterParameterHandler"
+- !private "&&"
+- "RouterParameterWalker"
 - !private "!"
+- !private ">"
+- !private "!="
 depends-member:
 - !private ["Ps9AnyObject", "error"]
 - !private ["Ps9AnyObject", "handle"]

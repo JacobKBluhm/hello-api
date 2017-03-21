@@ -7,14 +7,14 @@ provides-member:
 - ["P9KituraNet13ServerRequest", ""]
 provides-dynamic-lookup:
 depends-top-level:
-- "URL"
-- "URLComponents"
 - "HeadersContainer"
+- "UInt16"
+- "URLComponents"
+- "ServerRequest"
+- "URL"
+- "String"
 - "Int"
 - "Data"
-- "String"
-- "ServerRequest"
-- "UInt16"
 depends-member:
 - ["P9KituraNet13ServerRequest", "Data"]
 - ["P9KituraNet13ServerRequest", "HeadersContainer"]

@@ -7,12 +7,12 @@ provides-member:
 - ["P9KituraNet6Server", ""]
 provides-dynamic-lookup:
 depends-top-level:
-- "ServerState"
-- "Swift"
 - "ServerDelegate"
-- "Int"
-- "Server"
+- "Swift"
 - "Void"
+- "Int"
+- "ServerState"
+- "Server"
 depends-member:
 - ["P9KituraNet6Server", "Int"]
 - ["P9KituraNet6Server", "ServerDelegate"]

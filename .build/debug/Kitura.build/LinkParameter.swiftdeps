@@ -7,11 +7,11 @@ provides-member:
 - ["O6Kitura13LinkParameter", ""]
 provides-dynamic-lookup:
 depends-top-level:
-- "=="
-- !private "~="
-- "LinkParameter"
-- "String"
 - "StringLiteralType"
+- "String"
+- "LinkParameter"
+- !private "~="
+- "=="
 depends-member:
 - ["Ps9AnyObject", "init"]
 - !private ["Ps17BitwiseOperations", "hashValue"]

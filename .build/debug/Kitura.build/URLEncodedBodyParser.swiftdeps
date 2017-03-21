@@ -7,11 +7,11 @@ provides-member:
 - ["C6Kitura20URLEncodedBodyParser", ""]
 provides-dynamic-lookup:
 depends-top-level:
-- "BodyParserProtocol"
-- "TernaryPrecedence"
-- "ParsedBody"
 - !private "String"
+- "ParsedBody"
+- "TernaryPrecedence"
 - "URLEncodedBodyParser"
+- "BodyParserProtocol"
 - !private ">"
 - "Data"
 depends-member:

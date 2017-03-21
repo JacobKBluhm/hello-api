@@ -7,10 +7,10 @@ provides-member:
 - ["P6Kitura16RouterMiddleware", ""]
 provides-dynamic-lookup:
 depends-top-level:
-- "RouterMiddleware"
 - "RouterRequest"
-- "Void"
+- "RouterMiddleware"
 - "RouterResponse"
+- "Void"
 depends-member:
 - ["P6Kitura16RouterMiddleware", "RouterRequest"]
 - ["P6Kitura16RouterMiddleware", "RouterResponse"]

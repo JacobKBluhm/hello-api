@@ -9,8 +9,8 @@ provides-member:
 - ["C6Kitura6Router", "error"]
 provides-dynamic-lookup:
 depends-top-level:
-- "RouterHandler"
 - "RouterMiddleware"
+- "RouterHandler"
 - "Router"
 depends-member:
 - !private ["Ps9AnyObject", "routingHelper"]

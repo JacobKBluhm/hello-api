@@ -8,9 +8,9 @@ provides-member:
 provides-dynamic-lookup:
 depends-top-level:
 - "ServerResponse"
-- "HeadersContainer"
 - "String"
 - "HTTPStatusCode"
+- "HeadersContainer"
 - "Data"
 depends-member:
 - ["P9KituraNet14ServerResponse", "Data"]

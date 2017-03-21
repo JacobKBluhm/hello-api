@@ -8,9 +8,9 @@ provides-member:
 provides-dynamic-lookup:
 depends-top-level:
 - "Data"
-- "RawBodyParser"
-- "ParsedBody"
 - "BodyParserProtocol"
+- "ParsedBody"
+- "RawBodyParser"
 depends-member:
 - !private ["Ps9AnyObject", "ParsedBody"]
 - ["Ps9AnyObject", "parse"]

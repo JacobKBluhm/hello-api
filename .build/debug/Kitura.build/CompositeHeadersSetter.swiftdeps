@@ -7,13 +7,13 @@ provides-member:
 - ["C6Kitura29CompositeRelatedHeadersSetter", ""]
 provides-dynamic-lookup:
 depends-top-level:
-- !private "!="
-- "FileAttributeKey"
-- "String"
 - "AssignmentPrecedence"
 - "RouterResponse"
+- "String"
 - "CompositeRelatedHeadersSetter"
+- !private "!="
 - "ResponseHeadersSetter"
+- "FileAttributeKey"
 depends-member:
 - !private ["Ps9AnyObject", "responseHeadersSetters"]
 - ["Ps9AnyObject", "setCustomResponseHeaders"]

@@ -1,5 +1,5 @@
 version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
 options: "231c3805be62ea7d0dee7b477c2509e6"
-build_time: [543447355, 858529000]
+build_time: [543449945, 667836000]
 inputs:
   "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/Packages/Kitura-TemplateEngine-1.6.0/Sources/KituraTemplateEngine/TemplateEngine.swift": [543447352, 0]

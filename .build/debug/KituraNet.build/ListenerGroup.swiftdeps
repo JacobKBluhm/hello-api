@@ -7,10 +7,10 @@ provides-member:
 - ["C9KituraNet13ListenerGroup", ""]
 provides-dynamic-lookup:
 depends-top-level:
-- "DispatchQueue"
-- "ListenerGroup"
-- "DispatchWorkItem"
 - "AssignmentPrecedence"
+- "ListenerGroup"
+- "DispatchQueue"
+- "DispatchWorkItem"
 - "DispatchGroup"
 - !private "DispatchTime"
 depends-member:

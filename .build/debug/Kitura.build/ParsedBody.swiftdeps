@@ -7,11 +7,11 @@ provides-member:
 - ["O6Kitura10ParsedBody", ""]
 provides-dynamic-lookup:
 depends-top-level:
-- "Part"
 - "String"
-- "Data"
-- "JSON"
 - "ParsedBody"
+- "JSON"
+- "Data"
+- "Part"
 depends-member:
 - ["Sa", "deinit"]
 - ["Vs10Dictionary", "deinit"]

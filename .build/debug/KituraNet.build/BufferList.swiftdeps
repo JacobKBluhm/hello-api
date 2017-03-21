@@ -7,20 +7,20 @@ provides-member:
 - ["C9KituraNet10BufferList", ""]
 provides-dynamic-lookup:
 depends-top-level:
-- "UInt8"
-- "UnsafePointer"
-- !private "min"
-- "UnsafeMutablePointer"
-- "NSMutableData"
-- !private "+="
-- !private "-"
-- !private "+"
-- "??"
-- "Data"
-- !private "UnsafeMutableRawPointer"
-- "AssignmentPrecedence"
 - "BufferList"
+- "Data"
 - "Int"
+- "??"
+- "UnsafePointer"
+- "UInt8"
+- !private "UnsafeMutableRawPointer"
+- "NSMutableData"
+- !private "min"
+- !private "+="
+- !private "+"
+- !private "-"
+- "AssignmentPrecedence"
+- "UnsafeMutablePointer"
 depends-member:
 - !private ["Ps9AnyObject", "Data"]
 - ["Ps9AnyObject", "NSMutableData"]

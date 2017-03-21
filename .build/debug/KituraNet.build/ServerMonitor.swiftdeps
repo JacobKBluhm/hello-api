@@ -10,10 +10,10 @@ provides-member:
 - ["V9KituraNet7Monitor", ""]
 provides-dynamic-lookup:
 depends-top-level:
+- "ServerMonitor"
+- "Monitor"
 - "ServerResponse"
 - "ServerRequest"
-- "Monitor"
-- "ServerMonitor"
 depends-member:
 - ["V9KituraNet7Monitor", "ServerMonitor"]
 - ["V9KituraNet7Monitor", "delegate"]

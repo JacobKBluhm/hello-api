@@ -7,9 +7,9 @@ provides-member:
 - ["P9KituraNet14ServerDelegate", ""]
 provides-dynamic-lookup:
 depends-top-level:
-- "ServerDelegate"
 - "ServerRequest"
 - "ServerResponse"
+- "ServerDelegate"
 depends-member:
 - ["P9KituraNet14ServerDelegate", "ServerRequest"]
 - ["P9KituraNet14ServerDelegate", "ServerResponse"]

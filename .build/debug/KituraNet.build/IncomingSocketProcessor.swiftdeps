@@ -7,13 +7,13 @@ provides-member:
 - ["P9KituraNet23IncomingSocketProcessor", ""]
 provides-dynamic-lookup:
 depends-top-level:
-- "TimeInterval"
+- "IncomingSocketHandler"
 - "Int"
 - "NSData"
-- "IncomingSocketProcessor"
 - "UnsafeRawPointer"
-- "IncomingSocketHandler"
 - "Bool"
+- "IncomingSocketProcessor"
+- "TimeInterval"
 depends-member:
 - ["P9KituraNet23IncomingSocketProcessor", "Bool"]
 - ["P9KituraNet23IncomingSocketProcessor", "IncomingSocketHandler"]

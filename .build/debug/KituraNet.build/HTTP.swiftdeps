@@ -11,18 +11,18 @@ provides-member:
 provides-dynamic-lookup:
 depends-top-level:
 - "StringLiteralType"
-- "HTTPStatusCode"
 - "Int"
+- "HTTPStatusCode"
 - "HTTP"
 - "FloatLiteralType"
-- "IntegerLiteralType"
-- "ClientRequest"
-- "String"
-- "NSCharacterSet"
-- "Dictionary"
 - "HTTPServer"
-- !private "~="
+- "String"
+- "ClientRequest"
+- "IntegerLiteralType"
+- "NSCharacterSet"
 - "=="
+- !private "~="
+- "Dictionary"
 depends-member:
 - ["Ps9AnyObject", "Callback"]
 - !private ["Ps9AnyObject", "ClientRequest"]

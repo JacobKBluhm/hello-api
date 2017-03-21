@@ -7,22 +7,22 @@ provides-member:
 - ["C6Kitura11ContentType", ""]
 provides-dynamic-lookup:
 depends-top-level:
+- !private "!="
+- "ContentType"
+- "Bool"
 - !private "CastingPrecedence"
 - "AssignmentPrecedence"
-- !private "=="
-- !private "~="
-- !private "Range"
-- !private "UnicodeScalarType"
-- !private "!="
-- !private "JSONSerialization"
-- "Bool"
-- "String"
-- "ContentType"
-- !private "BooleanLiteralType"
-- !private "contentTypesString"
-- !private "&&"
 - !private "Log"
+- !private "~="
+- !private "=="
+- !private "contentTypesString"
 - !private "..<"
+- !private "Range"
+- !private "&&"
+- "String"
+- !private "BooleanLiteralType"
+- !private "UnicodeScalarType"
+- !private "JSONSerialization"
 depends-member:
 - !private ["Ps9AnyObject", "CompareOptions"]
 - ["Ps9AnyObject", "ContentType"]

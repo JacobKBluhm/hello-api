@@ -8,9 +8,9 @@ provides-member:
 - ["O9KituraNet11ServerState", ""]
 provides-dynamic-lookup:
 depends-top-level:
-- "ServerState"
 - !private "FloatLiteralType"
 - !private "IntegerLiteralType"
+- "ServerState"
 - "=="
 depends-member:
 - !private ["Ps17BitwiseOperations", "hashValue"]

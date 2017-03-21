@@ -7,13 +7,13 @@ provides-member:
 - ["C6Kitura25RouterMiddlewareGenerator", ""]
 provides-dynamic-lookup:
 depends-top-level:
+- "RouterMiddlewareGenerator"
+- "AssignmentPrecedence"
+- "RouterResponse"
+- "RouterRequest"
+- "Void"
 - "RouterMiddleware"
 - "RouterHandler"
-- "RouterResponse"
-- "AssignmentPrecedence"
-- "RouterRequest"
-- "RouterMiddlewareGenerator"
-- "Void"
 depends-member:
 - ["Ps9AnyObject", "handle"]
 - !private ["Ps9AnyObject", "innerHandler"]

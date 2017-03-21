@@ -7,11 +7,11 @@ provides-member:
 - ["O6Kitura12RouterMethod", ""]
 provides-dynamic-lookup:
 depends-top-level:
+- !private "??"
 - "=="
 - "AssignmentPrecedence"
 - !private "~="
 - "RouterMethod"
-- !private "??"
 - "String"
 - "CustomStringConvertible"
 - "StringLiteralType"

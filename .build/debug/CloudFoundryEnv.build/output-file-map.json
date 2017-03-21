@@ -1,0 +1,47 @@
+{
+  "": {
+    "swift-dependencies": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/CloudFoundryEnv.build/master.swiftdeps"
+  },
+  "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/Packages/CloudFoundryEnv-2.0.3/Sources/CloudFoundryEnv/App.swift": {
+    "dependencies": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/CloudFoundryEnv.build/App.d",
+    "object": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/CloudFoundryEnv.build/App.swift.o",
+    "swiftmodule": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/CloudFoundryEnv.build/App~partial.swiftmodule",
+    "swift-dependencies": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/CloudFoundryEnv.build/App.swiftdeps"
+  },
+  "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/Packages/CloudFoundryEnv-2.0.3/Sources/CloudFoundryEnv/AppEnv.swift": {
+    "dependencies": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/CloudFoundryEnv.build/AppEnv.d",
+    "object": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/CloudFoundryEnv.build/AppEnv.swift.o",
+    "swiftmodule": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/CloudFoundryEnv.build/AppEnv~partial.swiftmodule",
+    "swift-dependencies": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/CloudFoundryEnv.build/AppEnv.swiftdeps"
+  },
+  "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/Packages/CloudFoundryEnv-2.0.3/Sources/CloudFoundryEnv/CloudFoundryEnv.swift": {
+    "dependencies": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/CloudFoundryEnv.build/CloudFoundryEnv.d",
+    "object": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/CloudFoundryEnv.build/CloudFoundryEnv.swift.o",
+    "swiftmodule": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/CloudFoundryEnv.build/CloudFoundryEnv~partial.swiftmodule",
+    "swift-dependencies": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/CloudFoundryEnv.build/CloudFoundryEnv.swiftdeps"
+  },
+  "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/Packages/CloudFoundryEnv-2.0.3/Sources/CloudFoundryEnv/CloudFoundryEnvError.swift": {
+    "dependencies": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/CloudFoundryEnv.build/CloudFoundryEnvError.d",
+    "object": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/CloudFoundryEnv.build/CloudFoundryEnvError.swift.o",
+    "swiftmodule": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/CloudFoundryEnv.build/CloudFoundryEnvError~partial.swiftmodule",
+    "swift-dependencies": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/CloudFoundryEnv.build/CloudFoundryEnvError.swiftdeps"
+  },
+  "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/Packages/CloudFoundryEnv-2.0.3/Sources/CloudFoundryEnv/DateUtils.swift": {
+    "dependencies": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/CloudFoundryEnv.build/DateUtils.d",
+    "object": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/CloudFoundryEnv.build/DateUtils.swift.o",
+    "swiftmodule": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/CloudFoundryEnv.build/DateUtils~partial.swiftmodule",
+    "swift-dependencies": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/CloudFoundryEnv.build/DateUtils.swiftdeps"
+  },
+  "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/Packages/CloudFoundryEnv-2.0.3/Sources/CloudFoundryEnv/JSONUtils.swift": {
+    "dependencies": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/CloudFoundryEnv.build/JSONUtils.d",
+    "object": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/CloudFoundryEnv.build/JSONUtils.swift.o",
+    "swiftmodule": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/CloudFoundryEnv.build/JSONUtils~partial.swiftmodule",
+    "swift-dependencies": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/CloudFoundryEnv.build/JSONUtils.swiftdeps"
+  },
+  "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/Packages/CloudFoundryEnv-2.0.3/Sources/CloudFoundryEnv/Service.swift": {
+    "dependencies": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/CloudFoundryEnv.build/Service.d",
+    "object": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/CloudFoundryEnv.build/Service.swift.o",
+    "swiftmodule": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/CloudFoundryEnv.build/Service~partial.swiftmodule",
+    "swift-dependencies": "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/CloudFoundryEnv.build/Service.swiftdeps"
+  }
+}

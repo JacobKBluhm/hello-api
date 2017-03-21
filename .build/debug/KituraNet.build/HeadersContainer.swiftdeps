@@ -7,18 +7,18 @@ provides-member:
 - ["C9KituraNet16HeadersContainer", ""]
 provides-dynamic-lookup:
 depends-top-level:
-- "DictionaryIndex"
-- !private "Log"
-- "HeadersContainer"
-- !private "Array"
-- "Dictionary"
-- !private "~="
-- "AssignmentPrecedence"
 - "String"
-- !private "StringLiteralType"
-- "Collection"
-- !private "+"
+- !private "Log"
+- !private "~="
+- "HeadersContainer"
+- "DictionaryIndex"
+- "Dictionary"
+- !private "Array"
+- "AssignmentPrecedence"
 - !private "+="
+- "Collection"
+- !private "StringLiteralType"
+- !private "+"
 - !private "BooleanLiteralType"
 depends-member:
 - ["Ps9AnyObject", "Element"]

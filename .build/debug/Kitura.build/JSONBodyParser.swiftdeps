@@ -7,12 +7,12 @@ provides-member:
 - ["C6Kitura14JSONBodyParser", ""]
 provides-dynamic-lookup:
 depends-top-level:
-- "Data"
 - !private "JSON"
-- "JSONBodyParser"
-- !private "!="
-- "BodyParserProtocol"
 - "ParsedBody"
+- "BodyParserProtocol"
+- !private "!="
+- "JSONBodyParser"
+- "Data"
 depends-member:
 - !private ["Ps9AnyObject", "JSON"]
 - ["Ps9AnyObject", "parse"]

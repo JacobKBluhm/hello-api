@@ -7,20 +7,20 @@ provides-member:
 - ["C6Kitura18FileResourceServer", ""]
 provides-dynamic-lookup:
 depends-top-level:
-- !private "NSRange"
-- !private "AssignmentPrecedence"
-- "String"
 - !private "NSString"
+- !private "AssignmentPrecedence"
 - "RouterResponse"
-- !private "UnicodeScalarType"
+- !private "+"
+- !private "NSRange"
 - "FileResourceServer"
 - !private "!="
 - !private "+="
 - !private "Log"
 - !private "NSNotFound"
 - !private "FileManager"
-- !private "+"
 - !private "StringLiteralType"
+- "String"
+- !private "UnicodeScalarType"
 depends-member:
 - !private ["Ps9AnyObject", "FileManager"]
 - !private ["Ps9AnyObject", "Log"]

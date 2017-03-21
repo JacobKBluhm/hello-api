@@ -7,23 +7,23 @@ provides-member:
 - ["C6Kitura22RouterMiddlewareWalker", ""]
 provides-dynamic-lookup:
 depends-top-level:
-- "Void"
 - "AssignmentPrecedence"
-- !private "&&"
-- !private "=="
-- "IntegerLiteralType"
-- "TernaryPrecedence"
-- "RouterMiddleware"
-- "FloatLiteralType"
-- "RouterResponse"
-- !private "+="
-- "RouterMethod"
 - "String"
-- !private "-"
 - !private "<"
+- "IntegerLiteralType"
+- !private "=="
+- "Void"
+- "TernaryPrecedence"
+- "RouterMethod"
+- "FloatLiteralType"
 - !private "||"
+- !private "+="
+- "RouterResponse"
 - "RouterRequest"
+- !private "&&"
+- !private "-"
 - "RouterMiddlewareWalker"
+- "RouterMiddleware"
 depends-member:
 - !private ["Ps9AnyObject", "callback"]
 - !private ["Ps9AnyObject", "error"]

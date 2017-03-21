@@ -13,14 +13,14 @@ provides-member:
 provides-dynamic-lookup:
 depends-top-level:
 - "StringLiteralType"
-- "FastCGIServer"
-- "String"
 - "Swift"
-- "FastCGI"
-- "UInt8"
-- "FloatLiteralType"
-- "IntegerLiteralType"
 - "UInt16"
+- "UInt8"
+- "String"
+- "FloatLiteralType"
+- "FastCGIServer"
+- "IntegerLiteralType"
+- "FastCGI"
 - "=="
 depends-member:
 - !private ["Ps9AnyObject", "FastCGIServer"]

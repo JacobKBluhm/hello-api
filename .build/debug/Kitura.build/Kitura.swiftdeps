@@ -7,18 +7,18 @@ provides-member:
 - ["C6Kitura6Kitura", ""]
 provides-dynamic-lookup:
 depends-top-level:
-- !private "StringLiteralType"
-- !private "HTTP"
 - "SSLConfig"
 - "FastCGIServer"
-- !private "Log"
-- "Kitura"
-- !private "ListenerGroup"
-- "HTTPServer"
-- !private "FastCGI"
 - "AssignmentPrecedence"
-- "ServerDelegate"
+- !private "HTTP"
+- !private "ListenerGroup"
+- "Kitura"
+- !private "FastCGI"
+- "HTTPServer"
+- !private "Log"
+- !private "StringLiteralType"
 - "Int"
+- "ServerDelegate"
 depends-member:
 - !private ["Ps9AnyObject", "FastCGI"]
 - ["Ps9AnyObject", "FastCGIServer"]

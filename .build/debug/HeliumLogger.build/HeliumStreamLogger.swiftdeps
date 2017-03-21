@@ -7,16 +7,16 @@ provides-member:
 - ["C12HeliumLogger18HeliumStreamLogger", ""]
 provides-dynamic-lookup:
 depends-top-level:
-- "String"
-- !private "StringLiteralType"
-- "HeliumLogger"
 - "LoggerMessageType"
-- "AssignmentPrecedence"
-- !private "+"
 - !private "print"
-- "TextOutputStream"
 - "HeliumStreamLogger"
+- "AssignmentPrecedence"
+- "TextOutputStream"
+- !private "+"
 - !private "Log"
+- "String"
+- "HeliumLogger"
+- !private "StringLiteralType"
 depends-member:
 - !private ["Ps9AnyObject", "HeliumStreamLogger"]
 - !private ["Ps9AnyObject", "Log"]

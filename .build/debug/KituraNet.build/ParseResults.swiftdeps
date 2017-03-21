@@ -8,20 +8,20 @@ provides-member:
 provides-dynamic-lookup:
 depends-top-level:
 - "StringLiteralType"
-- "HeadersContainer"
 - "UInt8"
 - "UnsafePointer"
-- "ParseResults"
-- "BooleanLiteralType"
+- "UInt16"
 - !private "-="
 - "NSMutableData"
-- "Int"
+- "HeadersContainer"
+- "BooleanLiteralType"
 - "??"
-- "UInt16"
-- "BufferList"
-- "AssignmentPrecedence"
-- !private "CChar"
 - "String"
+- !private "CChar"
+- "AssignmentPrecedence"
+- "BufferList"
+- "Int"
+- "ParseResults"
 depends-member:
 - ["Ps9AnyObject", "BufferList"]
 - !private ["Ps9AnyObject", "CChar"]

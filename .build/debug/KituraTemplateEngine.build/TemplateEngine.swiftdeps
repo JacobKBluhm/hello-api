@@ -14,10 +14,10 @@ provides-member:
 - ["P20KituraTemplateEngine14TemplateEngine", "render"]
 provides-dynamic-lookup:
 depends-top-level:
-- "RenderingOptions"
-- "TemplateEngine"
-- "NullRenderingOptions"
 - "String"
+- "NullRenderingOptions"
+- "TemplateEngine"
+- "RenderingOptions"
 depends-member:
 - ["V20KituraTemplateEngine20NullRenderingOptions", "deinit"]
 - ["V20KituraTemplateEngine20NullRenderingOptions", "init"]

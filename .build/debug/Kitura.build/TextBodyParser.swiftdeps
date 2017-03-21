@@ -7,10 +7,10 @@ provides-member:
 - ["C6Kitura14TextBodyParser", ""]
 provides-dynamic-lookup:
 depends-top-level:
-- !private "String"
 - "ParsedBody"
-- "BodyParserProtocol"
+- !private "String"
 - "TextBodyParser"
+- "BodyParserProtocol"
 - "Data"
 depends-member:
 - !private ["Ps9AnyObject", "String"]

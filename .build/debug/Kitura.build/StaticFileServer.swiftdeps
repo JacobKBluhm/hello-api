@@ -11,23 +11,23 @@ provides-member:
 - ["VC6Kitura16StaticFileServer7Options", ""]
 provides-dynamic-lookup:
 depends-top-level:
+- "Bool"
 - !private "||"
-- "FloatLiteralType"
-- "RouterResponse"
-- "RouterRequest"
-- "IntegerLiteralType"
 - "AssignmentPrecedence"
+- "String"
 - !private "=="
+- "IntegerLiteralType"
+- "RouterRequest"
+- "RouterResponse"
+- "FloatLiteralType"
+- "Void"
+- "RouterMiddleware"
+- "BooleanLiteralType"
 - "Int"
+- !private "CompositeRelatedHeadersSetter"
 - "StringLiteralType"
 - "ResponseHeadersSetter"
 - "StaticFileServer"
-- "String"
-- !private "CompositeRelatedHeadersSetter"
-- "RouterMiddleware"
-- "Void"
-- "BooleanLiteralType"
-- "Bool"
 depends-member:
 - !private ["Ps9AnyObject", "CacheOptions"]
 - !private ["Ps9AnyObject", "CacheRelatedHeadersSetter"]

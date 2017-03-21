@@ -16,24 +16,24 @@ provides-member:
 - ["O6Socket8SSLError", ""]
 provides-dynamic-lookup:
 depends-top-level:
-- "Data"
-- "SocketReader"
-- "Int"
-- "Bool"
 - "SSLServiceDelegate"
-- "String"
-- "Swift"
 - "SSLError"
-- !private "IntegerLiteralType"
-- "UnsafeMutableRawPointer"
-- !private "FloatLiteralType"
-- "SocketWriter"
+- "Bool"
 - "CustomStringConvertible"
 - "UnsafeRawPointer"
-- "Socket"
+- "Int"
 - "NSData"
+- "String"
+- "Socket"
 - !private "StringLiteralType"
+- "Swift"
+- "SocketWriter"
+- "Data"
 - "NSMutableData"
+- !private "FloatLiteralType"
+- "UnsafeMutableRawPointer"
+- !private "IntegerLiteralType"
+- "SocketReader"
 depends-member:
 - !private ["Ps9AnyObject", "init"]
 - !private ["Ps17BitwiseOperations", "init"]

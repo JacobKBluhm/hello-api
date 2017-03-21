@@ -8,11 +8,11 @@ provides-member:
 provides-dynamic-lookup:
 depends-top-level:
 - "SSLConfig"
-- "AssignmentPrecedence"
 - "SSLService"
+- "AssignmentPrecedence"
+- "Bool"
 - "String"
 - "BooleanLiteralType"
-- "Bool"
 depends-member:
 - ["Ps9AnyObject", "Configuration"]
 - ["Sb", "deinit"]

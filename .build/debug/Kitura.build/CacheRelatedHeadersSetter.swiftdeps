@@ -8,21 +8,21 @@ provides-member:
 - ["C6Kitura16StaticFileServer", "CacheRelatedHeadersSetter"]
 provides-dynamic-lookup:
 depends-top-level:
-- !private "Date"
-- "ResponseHeadersSetter"
-- !private "CastingPrecedence"
-- "AssignmentPrecedence"
-- "StaticFileServer"
-- "RouterResponse"
-- "String"
 - "Int"
-- "Bool"
-- "FileAttributeKey"
+- !private "Date"
+- !private "CastingPrecedence"
 - !private "UnicodeScalarType"
+- "AssignmentPrecedence"
+- "String"
+- !private "SPIUtils"
+- "FileAttributeKey"
+- "StaticFileServer"
 - !private "NSNumber"
 - !private "BooleanLiteralType"
+- "Bool"
+- "RouterResponse"
 - !private "StringLiteralType"
-- !private "SPIUtils"
+- "ResponseHeadersSetter"
 depends-member:
 - !private ["Ps9AnyObject", "FileAttributeKey"]
 - !private ["Ps9AnyObject", "Int"]

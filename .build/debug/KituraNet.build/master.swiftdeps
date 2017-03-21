@@ -1,6 +1,6 @@
 version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
 options: "43fec1842bb90cfd341a517667538c43"
-build_time: [543447367, 69693000]
+build_time: [543449952, 248937000]
 inputs:
   "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/Packages/Kitura-net-1.6.2/Sources/KituraNet/BufferList.swift": [543447336, 0]
   "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/Packages/Kitura-net-1.6.2/Sources/KituraNet/ClientRequest.swift": [543447336, 0]

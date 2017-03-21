@@ -8,23 +8,23 @@ provides-member:
 - ["C6Kitura16StaticFileServer", "FileServer"]
 provides-dynamic-lookup:
 depends-top-level:
-- "AssignmentPrecedence"
-- "ResponseHeadersSetter"
-- "RouterRequest"
-- !private "NSURL"
-- "RouterResponse"
-- !private "+"
+- !private "UnicodeScalarType"
 - "Bool"
-- "String"
-- !private "!"
-- !private "BooleanLiteralType"
+- !private "FileManager"
+- "StaticFileServer"
+- "AssignmentPrecedence"
+- !private "Error"
+- "RouterRequest"
 - !private "+="
 - !private "Log"
+- !private "NSURL"
+- "RouterResponse"
 - !private "ObjCBool"
-- !private "UnicodeScalarType"
-- "StaticFileServer"
-- !private "FileManager"
-- !private "Error"
+- !private "+"
+- "String"
+- !private "BooleanLiteralType"
+- !private "!"
+- "ResponseHeadersSetter"
 depends-member:
 - !private ["Vs11AnyIterator", "Element"]
 - !private ["Ps9AnyObject", "Error"]

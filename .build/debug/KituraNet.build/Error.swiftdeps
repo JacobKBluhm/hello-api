@@ -7,10 +7,10 @@ provides-member:
 - ["O9KituraNet5Error", ""]
 provides-dynamic-lookup:
 depends-top-level:
-- "CustomStringConvertible"
-- !private "StringLiteralType"
-- "Swift"
 - "String"
+- "Swift"
+- !private "StringLiteralType"
+- "CustomStringConvertible"
 - "Int32"
 - "Error"
 depends-member:

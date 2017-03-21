@@ -10,12 +10,12 @@ provides-member:
 - ["OV6Kitura4Part10HeaderType", ""]
 provides-dynamic-lookup:
 depends-top-level:
-- "=="
 - "String"
+- "Part"
+- "=="
 - "ParsedBody"
 - "Data"
 - "StringLiteralType"
-- "Part"
 depends-member:
 - ["Ps9AnyObject", "init"]
 - ["Ps23BidirectionalCollection", "init"]

@@ -1,0 +1,11 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "25629315450951eb3b44b3b65f14bc3c"
+build_time: [543449946, 432995000]
+inputs:
+  "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/Packages/CloudFoundryEnv-2.0.3/Sources/CloudFoundryEnv/App.swift": [543449941, 0]
+  "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/Packages/CloudFoundryEnv-2.0.3/Sources/CloudFoundryEnv/AppEnv.swift": [543449944, 0]
+  "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/Packages/CloudFoundryEnv-2.0.3/Sources/CloudFoundryEnv/CloudFoundryEnv.swift": [543449944, 0]
+  "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/Packages/CloudFoundryEnv-2.0.3/Sources/CloudFoundryEnv/CloudFoundryEnvError.swift": [543449944, 0]
+  "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/Packages/CloudFoundryEnv-2.0.3/Sources/CloudFoundryEnv/DateUtils.swift": [543449941, 0]
+  "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/Packages/CloudFoundryEnv-2.0.3/Sources/CloudFoundryEnv/JSONUtils.swift": [543449941, 0]
+  "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/Packages/CloudFoundryEnv-2.0.3/Sources/CloudFoundryEnv/Service.swift": [543449941, 0]

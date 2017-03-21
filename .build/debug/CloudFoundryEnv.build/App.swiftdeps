@@ -1,0 +1,137 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "App"
+provides-nominal:
+- "V15CloudFoundryEnv3App"
+- "CV15CloudFoundryEnv3App7Builder"
+- "VV15CloudFoundryEnv3App6Limits"
+provides-member:
+- ["V15CloudFoundryEnv3App", ""]
+- ["CV15CloudFoundryEnv3App7Builder", ""]
+- ["VV15CloudFoundryEnv3App6Limits", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "App"
+- "TimeInterval"
+- "String"
+- "Date"
+- "AssignmentPrecedence"
+- "Int"
+depends-member:
+- !private ["Ps9AnyObject", "App"]
+- !private ["Ps9AnyObject", "id"]
+- !private ["Ps9AnyObject", "instanceId"]
+- !private ["Ps9AnyObject", "instanceIndex"]
+- !private ["Ps9AnyObject", "limits"]
+- !private ["Ps9AnyObject", "name"]
+- !private ["Ps9AnyObject", "port"]
+- !private ["Ps9AnyObject", "spaceId"]
+- !private ["Ps9AnyObject", "startedAt"]
+- !private ["Ps9AnyObject", "uris"]
+- !private ["Ps9AnyObject", "version"]
+- ["Ps9AnyObject", ""]
+- ["V15CloudFoundryEnv3App", "App"]
+- ["V15CloudFoundryEnv3App", "Builder"]
+- ["V15CloudFoundryEnv3App", "Date"]
+- ["V15CloudFoundryEnv3App", "Int"]
+- ["V15CloudFoundryEnv3App", "Limits"]
+- ["V15CloudFoundryEnv3App", "String"]
+- ["V15CloudFoundryEnv3App", "TimeInterval"]
+- ["V15CloudFoundryEnv3App", "deinit"]
+- ["V15CloudFoundryEnv3App", "id"]
+- !private ["V15CloudFoundryEnv3App", "init"]
+- ["V15CloudFoundryEnv3App", "instanceId"]
+- ["V15CloudFoundryEnv3App", "instanceIndex"]
+- ["V15CloudFoundryEnv3App", "limits"]
+- ["V15CloudFoundryEnv3App", "name"]
+- ["V15CloudFoundryEnv3App", "port"]
+- ["V15CloudFoundryEnv3App", "spaceId"]
+- ["V15CloudFoundryEnv3App", "startedAt"]
+- ["V15CloudFoundryEnv3App", "startedAtTs"]
+- ["V15CloudFoundryEnv3App", "uris"]
+- ["V15CloudFoundryEnv3App", "version"]
+- ["Sa", "deinit"]
+- ["CV15CloudFoundryEnv3App7Builder", "App"]
+- ["CV15CloudFoundryEnv3App7Builder", "Builder"]
+- ["CV15CloudFoundryEnv3App7Builder", "Date"]
+- ["CV15CloudFoundryEnv3App7Builder", "Int"]
+- ["CV15CloudFoundryEnv3App7Builder", "Limits"]
+- ["CV15CloudFoundryEnv3App7Builder", "String"]
+- ["CV15CloudFoundryEnv3App7Builder", "build"]
+- ["CV15CloudFoundryEnv3App7Builder", "deinit"]
+- ["CV15CloudFoundryEnv3App7Builder", "id"]
+- ["CV15CloudFoundryEnv3App7Builder", "init"]
+- ["CV15CloudFoundryEnv3App7Builder", "instanceId"]
+- ["CV15CloudFoundryEnv3App7Builder", "instanceIndex"]
+- ["CV15CloudFoundryEnv3App7Builder", "limits"]
+- ["CV15CloudFoundryEnv3App7Builder", "name"]
+- ["CV15CloudFoundryEnv3App7Builder", "port"]
+- ["CV15CloudFoundryEnv3App7Builder", "setId"]
+- ["CV15CloudFoundryEnv3App7Builder", "setInstanceId"]
+- ["CV15CloudFoundryEnv3App7Builder", "setInstanceIndex"]
+- ["CV15CloudFoundryEnv3App7Builder", "setLimits"]
+- ["CV15CloudFoundryEnv3App7Builder", "setName"]
+- ["CV15CloudFoundryEnv3App7Builder", "setPort"]
+- ["CV15CloudFoundryEnv3App7Builder", "setSpaceId"]
+- ["CV15CloudFoundryEnv3App7Builder", "setStartedAt"]
+- ["CV15CloudFoundryEnv3App7Builder", "setUris"]
+- ["CV15CloudFoundryEnv3App7Builder", "setVersion"]
+- ["CV15CloudFoundryEnv3App7Builder", "spaceId"]
+- ["CV15CloudFoundryEnv3App7Builder", "startedAt"]
+- ["CV15CloudFoundryEnv3App7Builder", "uris"]
+- ["CV15CloudFoundryEnv3App7Builder", "version"]
+- !private ["Ps10Comparable", "timeIntervalSince1970"]
+- !private ["Ps28CustomDebugStringConvertible", "timeIntervalSince1970"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "timeIntervalSince1970"]
+- !private ["Ps17CustomReflectable", "timeIntervalSince1970"]
+- !private ["Ps23CustomStringConvertible", "timeIntervalSince1970"]
+- !private ["V10Foundation4Date", "deinit"]
+- !private ["V10Foundation4Date", "timeIntervalSince1970"]
+- !private ["Sd", "deinit"]
+- !private ["Ps9Equatable", "timeIntervalSince1970"]
+- !private ["Ps8Hashable", "timeIntervalSince1970"]
+- ["Si", "deinit"]
+- ["VV15CloudFoundryEnv3App6Limits", "Int"]
+- ["VV15CloudFoundryEnv3App6Limits", "deinit"]
+- ["VV15CloudFoundryEnv3App6Limits", "disk"]
+- ["VV15CloudFoundryEnv3App6Limits", "fds"]
+- ["VV15CloudFoundryEnv3App6Limits", "init"]
+- ["VV15CloudFoundryEnv3App6Limits", "memory"]
+- ["Sq", "deinit"]
+- !private ["P10Foundation20ReferenceConvertible", "timeIntervalSince1970"]
+- ["SS", "deinit"]
+- !private ["Ps9_Hashable", "timeIntervalSince1970"]
+- !private ["Ps21_ObjectiveCBridgeable", "timeIntervalSince1970"]
+depends-nominal:
+- "Ps9AnyObject"
+- "V15CloudFoundryEnv3App"
+- "Sa"
+- "CV15CloudFoundryEnv3App7Builder"
+- !private "Ps10Comparable"
+- !private "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- !private "Ps23CustomStringConvertible"
+- !private "V10Foundation4Date"
+- !private "Sd"
+- !private "Ps9Equatable"
+- !private "Ps8Hashable"
+- "Si"
+- "VV15CloudFoundryEnv3App6Limits"
+- "Sq"
+- !private "P10Foundation20ReferenceConvertible"
+- "SS"
+- !private "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Users/jacobkbluhm/Developer/iOS_Xcode/hello-api/.build/debug/LoggerAPI.swiftmodule"
+interface-hash: "30240fa640649f9393d22cde752cb5bb"

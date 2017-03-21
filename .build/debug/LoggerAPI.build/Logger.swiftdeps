@@ -13,19 +13,19 @@ provides-member:
 - ["C9LoggerAPI3Log", ""]
 provides-dynamic-lookup:
 depends-top-level:
+- "CustomStringConvertible"
 - "Log"
 - !private "BooleanLiteralType"
-- "Int"
 - !private "StringLiteralType"
-- "String"
-- "LoggerMessageType"
 - "Bool"
+- "String"
 - "=="
 - !private "~="
-- "FloatLiteralType"
-- "CustomStringConvertible"
+- "LoggerMessageType"
 - "Logger"
+- "FloatLiteralType"
 - "IntegerLiteralType"
+- "Int"
 depends-member:
 - !private ["Ps9AnyObject", "logger"]
 - ["Ps9AnyObject", ""]

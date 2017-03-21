@@ -7,11 +7,11 @@ provides-member:
 - ["O6Kitura15TemplatingError", ""]
 provides-dynamic-lookup:
 depends-top-level:
+- "CustomStringConvertible"
+- "String"
 - "TemplatingError"
 - "Swift"
-- "CustomStringConvertible"
 - !private "StringLiteralType"
-- "String"
 depends-member:
 - !private ["Ps9AnyObject", "init"]
 - !private ["Sb", "deinit"]

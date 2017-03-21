@@ -7,12 +7,12 @@ provides-member:
 - ["C9KituraNet23ServerLifecycleListener", ""]
 provides-dynamic-lookup:
 depends-top-level:
-- "ServerLifecycleListener"
-- "FunctionArrowPrecedence"
-- "Void"
 - "Swift"
 - "BooleanLiteralType"
+- "ServerLifecycleListener"
+- "FunctionArrowPrecedence"
 - "Bool"
+- "Void"
 depends-member:
 - ["Ps9AnyObject", "ErrorClosure"]
 - ["Ps9AnyObject", "Void"]

@@ -8,10 +8,10 @@ provides-member:
 provides-dynamic-lookup:
 depends-top-level:
 - "JSONPError"
-- "CustomStringConvertible"
-- "String"
 - "Swift"
+- "CustomStringConvertible"
 - !private "StringLiteralType"
+- "String"
 depends-member:
 - !private ["Ps9AnyObject", "init"]
 - !private ["Sb", "deinit"]
